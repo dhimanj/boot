@@ -1,0 +1,5 @@
+{
+       "ip":"playfriendly2006.aternos.me",
+       "port":"51226",
+        "name":"booot"
+}
